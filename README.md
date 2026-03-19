@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00FF41,100:003B00&height=180&section=header&text=avii3301&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=60" width="100%"/>
+<img src="https://raw.githubusercontent.com/avii3301/avii3301/main/avii3301-logo.png" width="100%" alt="AVII3301"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=480&lines=PRESS+START;generative+ai+builder;making+LLMs+do+useful+things;delhi+%F0%9F%87%AE%F0%9F%87%B3)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=1400&color=00FF41&center=true&vCenter=true&width=520&lines=%3E+avii3301%40github%3A~%24;generative+ai;rag+pipelines+%7C+llm+systems;caffeine;creatine;Bangalore+%F0%9F%87%AE%F0%9F%87%B3;cinema)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 > i made a space invaders game. CRT scanlines. retro sound. actually playable.
 
-[![PLAY](https://img.shields.io/badge/▶%20%20PLAY%20SPACE%20INVADERS%20%20◀-00FF41?style=flat-square&labelColor=002b00)](https://avii3301.github.io/avii3301/game.html)
+[![PLAY](https://img.shields.io/badge/▶%20%20PLAY%20SPACE%20INVADERS%20%20◀-00FF41?style=flat-square&labelColor=00FF41&color=00FF41)](https://avii3301.github.io/Avii3301/game.html)
 
 ```
 ← →  move    SPACE  shoot    P  pause
@@ -143,7 +143,7 @@ built this because i wanted to know if a product was actually good before buying
 
 <br/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=avii3301&theme=matrix&hide_border=true&background=0d0d0d&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=006400)
+![Streak](https://streak-stats.demolab.com/?user=avii3301&theme=dark&hide_border=true&background=0d0d0d&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=00FF41&dates=006400)
 
 </div>
 
@@ -157,4 +157,4 @@ built this because i wanted to know if a product was actually good before buying
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:003B00,100:00FF41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0000&height=60&section=footer" width="100%"/>
