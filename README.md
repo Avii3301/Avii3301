@@ -14,7 +14,7 @@
 
 ### `🕹️ INSERT COIN`
 
-> i made a space invaders game. CRT scanlines. retro sound. actually playable.
+> i made a space invaders game. play it while i deploy what you're here for. my high score: 3300
 
 [![PLAY](https://img.shields.io/badge/▶%20%20PLAY%20SPACE%20INVADERS%20%20◀-00FF41?style=flat-square&labelColor=00FF41&color=00FF41)](https://avii3301.github.io/Avii3301/game.html)
 
@@ -138,8 +138,8 @@ built this because i wanted to know if a product was actually good before buying
 
 ### `> HIGH SCORES`
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=avii3301&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii3301&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&langs_count=5" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=avii3301&show_icons=true&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avii3301&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=00FF41&langs_count=5&hide=jupyter%20notebook" />
 
 <br/>
 
@@ -151,7 +151,7 @@ built this because i wanted to know if a product was actually good before buying
 
 <div align="center">
 
-[`@Wallflower_3301`](https://twitter.com/Wallflower_3301) &nbsp; · &nbsp; [`avinashkumar.3301@gmail.com`](mailto:avinashkumar.3301@gmail.com) &nbsp; · &nbsp; `delhi, india`
+[`@Wallflower_3301`](https://twitter.com/Wallflower_3301) &nbsp; · &nbsp; [`avinashkumar.3301@gmail.com`](mailto:avinashkumar.3301@gmail.com) &nbsp; · &nbsp; `bangalore, india`
 
 ![](https://komarev.com/ghpvc/?username=avii3301&color=00FF41&style=flat-square&label=VISITORS)
 
